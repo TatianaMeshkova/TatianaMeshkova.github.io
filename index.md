@@ -5,7 +5,7 @@
 ### Download projects
 
 <a href="/Loan_Default_Prediction.ipynb" download>Download Loan_Default_Prediction.ipynb</a>
-
+<a href="pdf/Loan_Default_Prediction.pdf" download>Download presentation Loan_Default_Prediction.pdf</a>
 
 ### Data Science
 
