@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Science
 
 [Classification: loan default prediction](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
