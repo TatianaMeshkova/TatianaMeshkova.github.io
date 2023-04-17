@@ -14,7 +14,7 @@
 
 ---
 ### Power BI
-[Locatiekeuze in Nederland](/pdf/sample_presentation.pdf)
+#### [Locatiekeuze in Nederland](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
