@@ -12,8 +12,8 @@
 #### [Classification: loan default prediction](/Loan_Default_Prediction)
 <img src="images/LOAN_DEFAULT_PREDICRION.png"/>
 
-#### [Een woning kiezen in Nederland](pdf/Loan_Default_Prediction.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### [Presentation](pdf/Loan_Default_Prediction.pdf)
+<img src="images/Content.png?raw=true"/>
 ---
 
 
