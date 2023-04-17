@@ -4,7 +4,7 @@
 
 ### Data Science
 
-[Classification: loan default prediction](pdf/Loan_Default_Prediction.pdf)
+[Classification: loan default prediction](/Loan_Default_Prediction)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
