@@ -4,7 +4,7 @@
 
 ### Download projects
 
-<a href="path/to/file.pdf" download>Download PDF</a>
+<a href="/Loan_Default_Prediction.ipynb" download>Download Loan_Default_Prediction.ipynb</a>
 
 
 ### Data Science
