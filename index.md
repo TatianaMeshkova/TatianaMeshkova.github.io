@@ -2,6 +2,11 @@
 
 ---
 
+### Download projects
+
+<a href="path/to/file.pdf" download>Download PDF</a>
+
+
 ### Data Science
 
 [Classification: loan default prediction](/Loan_Default_Prediction)
