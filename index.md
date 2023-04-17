@@ -2,41 +2,30 @@
 
 ---
 
-### Download projects
+
 
 
 
 
 ### Data Science
-#### <a href="/Loan_Default_Prediction.ipynb" download>Download Loan_Default_Prediction.ipynb</a>
-#### <a href="pdf/Loan_Default_Prediction.pdf" download>Download presentation Loan_Default_Prediction.pdf</a>
+
 #### [Classification: loan default prediction](/Loan_Default_Prediction)
 <img src="images/LOAN_DEFAULT_PREDICRION.png"/>
 
+
 ---
+
+
 ### Power BI
 #### [Locatiekeuze in Nederland](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Download projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+##### <a href="/Loan_Default_Prediction.ipynb" download>Download Loan_Default_Prediction.ipynb</a>
+##### <a href="pdf/Loan_Default_Prediction.pdf" download>Download presentation Loan_Default_Prediction.pdf</a>
 
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
