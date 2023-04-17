@@ -13,7 +13,8 @@
 <img src="images/LOAN_DEFAULT_PREDICRION.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### Power BI
+[Locatiekeuze in Nederland](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
