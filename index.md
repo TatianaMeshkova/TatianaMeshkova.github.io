@@ -18,7 +18,7 @@
 
 
 ### Power BI
-#### [Een woning kiezen in Nederland](/pdf/sample_presentation.pdf)
+#### [Een woning kiezen in Nederland (Dutch)](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
