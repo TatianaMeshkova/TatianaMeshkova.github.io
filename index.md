@@ -10,7 +10,7 @@
 ### Data Science
 
 [Classification: loan default prediction](/Loan_Default_Prediction)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/LOAN_DEFAULT_PREDICRION.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
