@@ -21,7 +21,7 @@
 
 ##### <a href="pdf/Loan_Default_Prediction.pdf" download>Presentation Loan_Default_Prediction.pdf</a>
 
-##### <a href="https://drive.google.com/file/d/1zBi8Nlpn-380CowMTQdm6PAngpQutAjc/view?usp=share_link" download>Levensstandaard per regio NL.pbix</a>
+##### https://drive.google.com/uc?export=download&id=1zBi8Nlpn-380CowMTQdm6PAngpQutAjc
 ---
 
 
@@ -30,6 +30,9 @@
 ### [Een woning kiezen in Nederland](pdf/Levensstandaard_per_regio_NL.pdf)
 <img src="images/Levensstandaard per regio NL.png"/>
 
+##### Download:
+
+##### https://drive.google.com/uc?export=download&id=1zBi8Nlpn-380CowMTQdm6PAngpQutAjc
 
 ---
 
