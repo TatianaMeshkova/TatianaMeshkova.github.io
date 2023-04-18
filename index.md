@@ -20,12 +20,14 @@
 ##### <a href="/Loan_Default_Prediction.ipynb" download>Loan_Default_Prediction.ipynb</a>
 
 ##### <a href="pdf/Loan_Default_Prediction.pdf" download>Presentation Loan_Default_Prediction.pdf</a>
+
+##### <a href="https://drive.google.com/file/d/1zBi8Nlpn-380CowMTQdm6PAngpQutAjc/view?usp=share_link" download>Levensstandaard per regio NL.pbix</a>
 ---
 
 
 ## Power BI
 
-### [Een woning kiezen in Nederland](pdf/Loan_Default_Prediction.pdf)
+### [Een woning kiezen in Nederland](pdf/Levensstandaard_per_regio_NL.pdf)
 <img src="images/Levensstandaard per regio NL.png"/>
 
 
