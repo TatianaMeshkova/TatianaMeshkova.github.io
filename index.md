@@ -20,8 +20,6 @@
 ##### <a href="/Loan_Default_Prediction.ipynb" download>Loan_Default_Prediction.ipynb</a>
 
 ##### <a href="pdf/Loan_Default_Prediction.pdf" download>Presentation Loan_Default_Prediction.pdf</a>
-
-##### https://drive.google.com/uc?export=download&id=1zBi8Nlpn-380CowMTQdm6PAngpQutAjc
 ---
 
 
