@@ -24,8 +24,10 @@
 
 
 ## Power BI
-### [Een woning kiezen in Nederland (Dutch)](pdf/Levensstandaard per regio NL.pdf)
+
+### [Een woning kiezen in Nederland](pdf/Loan_Default_Prediction.pdf)
 <img src="images/Levensstandaard per regio NL.png"/>
+
 
 ---
 
