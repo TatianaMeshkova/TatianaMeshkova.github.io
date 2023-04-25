@@ -21,12 +21,12 @@
 
 ##### <a href="pdf/Loan_Default_Prediction.pdf" download>Presentation Loan_Default_Prediction.pdf</a>
 
-### [Classification: loan default prediction](/Loan_Default_Prediction)
+### [Classification: Travel Experience Satisfaction](/Shinkansen_Travel_Experience_Satisfaction_Analysis)
 <img src="images/LOAN_DEFAULT_PREDICRION.png"/>
 
 ##### Download:
 
-##### <a href="/Loan_Default_Prediction.ipynb" download>Loan_Default_Prediction.ipynb</a>
+##### <a href="/Loan_Default_Prediction.ipynb" download>Shinkansen_Travel_Experience_Satisfaction_Analysis.ipynb</a>
 ---
 
 
