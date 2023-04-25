@@ -20,6 +20,13 @@
 ##### <a href="/Loan_Default_Prediction.ipynb" download>Loan_Default_Prediction.ipynb</a>
 
 ##### <a href="pdf/Loan_Default_Prediction.pdf" download>Presentation Loan_Default_Prediction.pdf</a>
+
+### [Classification: loan default prediction](/Loan_Default_Prediction)
+<img src="images/LOAN_DEFAULT_PREDICRION.png"/>
+
+##### Download:
+
+##### <a href="/Loan_Default_Prediction.ipynb" download>Loan_Default_Prediction.ipynb</a>
 ---
 
 
