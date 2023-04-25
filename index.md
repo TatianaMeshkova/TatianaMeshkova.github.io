@@ -22,7 +22,7 @@
 ##### <a href="pdf/Loan_Default_Prediction.pdf" download>Presentation Loan_Default_Prediction.pdf</a>
 
 ### [Classification: Travel Experience Satisfaction](/Shinkansen_Travel_Experience_Satisfaction_Analysis)
-<img src="images/LOAN_DEFAULT_PREDICRION.png"/>
+<img src="images/Test_accuracy.png"/>
 
 ##### Download:
 
