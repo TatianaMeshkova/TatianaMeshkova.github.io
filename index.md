@@ -21,6 +21,8 @@
 
 ##### <a href="pdf/Loan_Default_Prediction.pdf" download>Presentation Loan_Default_Prediction.pdf</a>
 
+---
+
 ### [Classification: Travel Experience Satisfaction](/Shinkansen_Travel_Experience_Satisfaction_Analysis)
 <img src="images/Test_accuracy.png"/>
 
@@ -28,7 +30,7 @@
 
 ##### <a href="/Loan_Default_Prediction.ipynb" download>Shinkansen_Travel_Experience_Satisfaction_Analysis.ipynb</a>
 ---
-
+---
 
 ## Power BI
 
@@ -39,9 +41,6 @@
 
 ##### https://drive.google.com/uc?export=download&id=1zBi8Nlpn-380CowMTQdm6PAngpQutAjc
 
----
-
----
 
 
 
