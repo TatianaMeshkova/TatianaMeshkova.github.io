@@ -30,7 +30,7 @@
 
 ##### <a href="/Shinkansen_Travel_Experience_Satisfaction_Analysis.ipynb" download>Shinkansen_Travel_Experience_Satisfaction_Analysis.ipynb</a>
 ---
-### [Segmentation: Marketing compaing](pdf/Marketing_Campaign_Analysis)
+### [Segmentation: Marketing compaing](pdf/Marketing_Campaign_Analysis.md)
 <img src="images/segmentation.png"/> 
 
 ##### Download:
