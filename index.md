@@ -30,6 +30,9 @@
 
 ##### <a href="/Loan_Default_Prediction.ipynb" download>Shinkansen_Travel_Experience_Satisfaction_Analysis.ipynb</a>
 ---
+### [Segmentation: Marketing compaing](/Marketing_Campaign_Analysis)
+<img src="images/segmentation.png"/> 
+
 ---
 
 ## Power BI
