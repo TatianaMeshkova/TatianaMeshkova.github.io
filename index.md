@@ -28,11 +28,15 @@
 
 ##### Download:
 
-##### <a href="/Loan_Default_Prediction.ipynb" download>Shinkansen_Travel_Experience_Satisfaction_Analysis.ipynb</a>
+##### <a href="/Shinkansen_Travel_Experience_Satisfaction_Analysis.ipynb" download>Shinkansen_Travel_Experience_Satisfaction_Analysis.ipynb</a>
 ---
 ### [Segmentation: Marketing compaing](/Marketing_Campaign_Analysis)
 <img src="images/segmentation.png"/> 
 
+##### Download:
+
+##### <a href="/Marketing_Campaign_Analysis.ipynb" download>Marketing_Campaign_Analysis.ipynb</a>
+---
 ---
 
 ## Power BI
