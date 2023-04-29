@@ -1,3 +1,8 @@
+img {
+  width: 100%;
+  height: auto;
+}
+
 @media only screen and (min-width: 600px) {
   img {
     width: 100%;
