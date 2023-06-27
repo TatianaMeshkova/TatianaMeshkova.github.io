@@ -48,6 +48,18 @@
 
 ##### https://drive.google.com/uc?export=download&id=1zBi8Nlpn-380CowMTQdm6PAngpQutAjc
 
+---
+---
+## Pricing analisys Excel
+
+### [Excel Dashboard Sample for Pricing Analysis](pdf/Pricing Analysis.pdf)
+<img src="images/Dashboard.png"/>
+<img src="images/Pricing analisys.png"/>
+<img src="images/Product Matrix.png"/>
+
+##### Download:
+
+##### <a href="/Pricing & Business Data Analyst.xlsx" download>Pricing & Business Data Analyst</a>
 
 
 
