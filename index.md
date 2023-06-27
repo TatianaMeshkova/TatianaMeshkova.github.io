@@ -52,7 +52,7 @@
 ---
 ## Pricing analisys Excel
 
-### [Excel Dashboard Sample for Pricing Analysis](pdf/Pricing Analysis.pdf)
+### [Pricing analisys Excel](pdf/Pricing_Analysis.pdf)
 <img src="images/Dashboard.png"/>
 <img src="images/Pricing analisys.png"/>
 <img src="images/Product Matrix.png"/>
